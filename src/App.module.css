@@ -1,0 +1,13 @@
+.parent-grid {
+  padding: 16px 40px;
+}
+@media only screen and (max-width: 500px) {
+  .parent-grid {
+    padding: 8px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .parent-grid {
+    padding: 0px;
+  }
+}
